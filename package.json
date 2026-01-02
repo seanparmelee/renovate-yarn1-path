@@ -1,0 +1,22 @@
+{
+  "name": "renovate-yarn1-path",
+  "version": "1.0.0",
+  "description": "First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanparmelee/renovate-yarn1-path.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanparmelee/renovate-yarn1-path/issues"
+  },
+  "homepage": "https://github.com/seanparmelee/renovate-yarn1-path#readme",
+  "devDependencies": {
+    "eslint": "9.0.0"
+  }
+}
