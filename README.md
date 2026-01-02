@@ -1,17 +1,15 @@
-# minimal-reproduction-template
+# 40259
 
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+Reproduction for https://github.com/renovatebot/renovate/discussions/40259
 
 ## Current behavior
 
-Explain the current behavior here.
+Renvoate PRs are experiencing Artifact update problems (ex: https://github.com/seanparmelee/renovate-yarn1-path/pull/1#issuecomment-3706149339) and not updating the `yarn.lock` file.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Renovate PRs should contain `yarn.lock` changes.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/40259
